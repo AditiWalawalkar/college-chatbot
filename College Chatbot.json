@@ -1,0 +1,13 @@
+{
+	"id": "1bb3f096-f950-4504-b600-6f4a8d035ab3",
+	"crn": "crn:v1:bluemix:public:project:eu-gb:a/bd6ef6133e7442bf9b58745915d9a31a:1bb3f096-f950-4504-b600-6f4a8d035ab3::",
+	"definition": {
+		"name": "College Chatbot",
+		"description": "",
+		"destroy_on_delete": true
+	},
+	"configs": [],
+	"environments": [],
+	"resource_group_id": "c7cdcee171b049818141c1b27db0c528",
+	"location": "eu-gb"
+}
